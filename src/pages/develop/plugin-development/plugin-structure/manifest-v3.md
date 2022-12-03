@@ -118,3 +118,4 @@ A default string is always required. The language must be a two-letter code from
 
 > **Info**
 > You can also localize strings that appear in your plugin's own dialog UI, by choosing which strings to use in your UI based on the value of [application.appLanguage](/develop/reference/application/#module_application-appLanguage).
+>
